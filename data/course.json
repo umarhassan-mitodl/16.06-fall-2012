@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ]
+  ],
+  "legacy_uid": "0e575354-2885-ce6b-0949-d26b2ce74af7",
+  "instructors": {
+    "content": [
+      "ebf4f33a-26e6-2616-839e-a050544599e5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a752f4a6-855e-bd3e-cdfd-adbe8d2ca954",
+    "website": "16-06-principles-of-automatic-control-fall-2012"
+  },
+  "course_title": "Principles of Automatic Control",
+  "course_description": "This course introduces the design of feedback control systems as applied to a variety of air and spacecraft systems. Topics include the properties and advantages of feedback systems, time-domain and frequency-domain performance measures, stability and degree of stability, the Root locus method, Nyquist criterion, frequency-domain design, and state space methods.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.06",
+  "course_image_thumbnail": {
+    "content": "c6a846fd-3f27-7f8f-9756-1aaf008a195e",
+    "website": "16-06-principles-of-automatic-control-fall-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "eedcb9ff-22c1-4613-a044-4307722926bc",
+  "site_short_id": "16.06-fall-2012",
+  "site_url_path": "courses/16-06-principles-of-automatic-control-fall-2012",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 37952d6b-5d76-7682-608f-9d08d4c98662
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: da770690-01be-cf24-c774-a8706df4a13b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: f46b110e-9a78-a8d5-ca37-c10c7b0c9f8c
+  name: Acclimating Students to Active Learning
+  pageRef: /pages/instructor-insights/acclimating-students
+  parent: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
+  weight: 40
+- identifier: d2ea3eef-8a74-2079-83de-a78edd2c0d0e
+  name: Adapting the Classroom for Active Learning
+  pageRef: /pages/instructor-insights/adapting-the-classroom-for-active-learning
+  parent: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
+  weight: 50
+- identifier: 5e0124de-09dd-c33f-d814-26341e08fa9d
+  name: The Advantages of Active Learning
+  pageRef: /pages/instructor-insights/the-advantages-of-active-learning
+  parent: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
+  weight: 60
+- identifier: 5b3694e8-81dd-d2ff-d659-bba0e4b39f24
+  name: The Experience of Teaching an Active Learning Recitation
+  pageRef: /pages/instructor-insights/the-experience-of-teaching
+  parent: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
+  weight: 70
+- identifier: 95f3f5ad-627b-f7f7-4567-a75b0685da0c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 1be81c0a-758a-a999-1f4d-0017f0104003
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 90
+- identifier: 146eb6f8-5138-3842-1748-ea1b6952187a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 100
+- identifier: be330945-da52-300c-5fc6-789748c1abfb
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 110
