@@ -169,5 +169,5 @@ Related Resources
 
 {{% resource_link c507f498-eaba-a836-5599-e4b2950f6061 "A primer on solving systems of linear equations (PDF)" %}}
 
-{{% resource_link "63cffd50-7543-4d68-add4-f8f7613cc67f" "Control Tutorials for Matlab® and Simulink" %}}  
+[Control Tutorials for Matlab® and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)  
 This is a nice site at the University of Michigan with examples of how to use Matlab for control problem
